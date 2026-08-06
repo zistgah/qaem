@@ -1,0 +1,37 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Geometry of Persisting (Beyond Life) — A Poster Collection",
+  "description": "Volume III of the Geometry Trilogy, presented as a twenty-three-chapter poster collection built on the kitab template. Where Volume I (Geometry of Becoming) asks under what conditions an intent-bearing semantic structure can emerge, and Volume II (Geometry of Living) asks how such structures are maintained under continuous perturbation, Volume III asks the invariance question: what remains mathematically invariant when all physical realization is allowed to change. Chapters span the axiomatic foundation of intent dynamics; realization theory and substrate independence; the civilizational architecture of matter, energy and intent; institutions, economy, and information rights; memory, longevity, and the identity ontology of persistent semantic continuity; and the sacred and cosmic frontiers. Presented as an integrative research proposal, not established consensus. One poster per chapter, each a self-describing figure with explanation, read-aloud, and Ask-AI tools.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/CC-BY-SA-4.0",
+  "keywords": [
+    "geometry of persisting",
+    "persistent intent",
+    "semantic invariance",
+    "substrate independence",
+    "intent dynamics",
+    "TransEg",
+    "Markov blanket",
+    "variational free energy",
+    "PoLPEST",
+    "perpetuation of life",
+    "deep time",
+    "civilizational continuity",
+    "identity ontology",
+    "systems theory"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "familyName": "Choudhary",
+      "givenName": "Abhishek",
+      "@id": "https://orcid.org/0009-0002-0684-8320",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "AyeAI"
+      }
+    }
+  ],
+  "dateModified": "2026-08-06"
+}

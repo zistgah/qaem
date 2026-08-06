@@ -1,0 +1,25 @@
+[misty] sha256 qaem_1785996586.tar: d6916104a9564b90eba35e1c2d2db2557c34cab67ea7cfc1a98f4fa5629aa48c
+[misty] package -> doi-package
+[misty] target: PRODUCTION (https://zenodo.org/api)
+[misty] deposition 21818871 bucket https://zenodo.org/api/files/09bed91b-3484-47cf-a94c-9b7af8748bd1
+[misty] uploaded qaem_1785996586.tar (53475328 bytes)
+[misty] metadata set
+[misty] PUBLISHED doi=10.5281/zenodo.21818871 url=https://zenodo.org/record/21818871
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.21818871",
+  "concept_doi": "10.5281/zenodo.21818870",
+  "record_url": "https://zenodo.org/record/21818871",
+  "deposition_id": 21818871,
+  "bucket": "https://zenodo.org/api/files/09bed91b-3484-47cf-a94c-9b7af8748bd1",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "qaem_1785996586.tar",
+      "size": 230717440,
+      "sha256": "d6916104a9564b90eba35e1c2d2db2557c34cab67ea7cfc1a98f4fa5629aa48c"
+    }
+  ],
+  "generated_at": "2026-08-06T06:25:32+00:00"
+}

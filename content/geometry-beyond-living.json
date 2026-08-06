@@ -1,0 +1,31 @@
+{
+  "id": "ch-02",
+  "slug": "geometry-beyond-living",
+  "title": "Geometry Beyond Living",
+  "subtitle": "A Unified Geometry of Persistence, Civilization, Identity, and Open-Ended Evolution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry Beyond Living” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-02-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-beyond-living.png",
+      "alt": "Poster: Geometry Beyond Living — A Unified Geometry of Persistence, Civilization, Identity, and Open-Ended Evolution",
+      "caption": "Figure 2.1 — Geometry Beyond Living: A Unified Geometry of Persistence, Civilization, Identity, and Open-Ended Evolution.",
+      "explanation": "The bridge poster from the previous volume to this one. Its thesis is that life is not the endpoint: a living organism is one transient realization of a much larger persistent information process, so the fundamental object of study becomes persistent organized information operating across substrates, timescales and embodiments. The canonical question shifts accordingly — Becoming asked how systems transform, Living asked how systems remain alive, and Beyond Living asks how organized adaptive systems persist past the lifetime of any individual biological realization, making persistence rather than life the primary abstraction and life one mechanism that realizes it. The central object is persistent semantic organization, with every domain read as an inheritance mechanism: genes inherit DNA, language inherits knowledge, culture inherits practices, education inherits competence, law inherits institutions, economics inherits capital, technology inherits capability, AI inherits semantic structure, and civilizations inherit accumulated order. Identity is recast as continuous semantic persistence rather than continuous biological matter, arriving through staggered upload rather than instantaneous transfer, and the universal dependency runs geometry, information, structure, organization, adaptation, persistence, evolution, open-ended emergence. The closing panel lists the framework's own open questions rather than claiming closure.",
+      "tts": "Geometry beyond living. Life is not the endpoint — an organism is one transient realization of a larger persistent information process, and the state variable shifts from life to persistence.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry Beyond Living — A Unified Geometry of Persistence, Civilization, Identity, and Open-Ended Evolution” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: persistence as the state variable, substrate independence, persistent semantic organization, staggered upload, persistent identity, TransEg, inheritance as information conservation, civilization as adaptive super-organism, open-ended emergence. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ch-20",
+  "slug": "jung-archetypes-and-the-collective-unconscious",
+  "title": "Jung, Archetypes & The Collective Unconscious",
+  "subtitle": "A Geometric & Thermodynamic Mapping of the Deepest Psyche",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Jung, Archetypes & The Collective Unconscious” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-20-01",
+      "dimension": "2d",
+      "src": "assets/figures/jung-archetypes-and-the-collective-unconscious.png",
+      "alt": "Poster: Jung, Archetypes & The Collective Unconscious — A Geometric & Thermodynamic Mapping of the Deepest Psyche",
+      "caption": "Figure 20.1 — Jung, Archetypes & The Collective Unconscious: A Geometric & Thermodynamic Mapping of the Deepest Psyche.",
+      "explanation": "Jungian depth psychology mapped onto the framework's geometry. The collective unconscious is read as the phylogenetic base manifold — a hardcoded metric tensor of the human species that exists prior to individual experience, layered beneath the personal unconscious and the conscious ego, and functioning as accumulated negative entropy that gives every newborn a pre-compiled coordinate grid rather than a blank one. Archetypes are then not images but deep, high-gravity attractor basins in behavioural configuration space: when chaos or threat arises the mind is pulled into the nearest basin, an evolutionary shortcut supplying a pre-calculated geodesic to group-survival strategies at low energy cost. Three core structures are mapped in detail — the Shadow as the subset of internal state space the ego refuses to predict, spending constant energy on suppression and leaking through projection; the anima and animus as an internalized complementary metric tensor acting as a tuning fork for multi-agent coupling; and the Persona as the outermost layer of the psychological Markov blanket, a low-resolution mesh facing the social manifold. Individuation is total manifold coherence: the Self as centre of mass, with probability current flowing across all layers without rigid internal boundaries.",
+      "tts": "Jung, archetypes and the collective unconscious, read geometrically. The collective unconscious as the species' base manifold, archetypes as high-gravity attractor basins, and individuation as total manifold coherence.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Jung, Archetypes & The Collective Unconscious — A Geometric & Thermodynamic Mapping of the Deepest Psyche” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: collective unconscious, phylogenetic base manifold, deep priors, archetypes as attractor basins, the Shadow, anima and animus, the Persona, individuation, variational free energy, non-equilibrium steady state. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

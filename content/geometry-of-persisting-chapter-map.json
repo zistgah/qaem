@@ -1,0 +1,31 @@
+{
+  "id": "ch-04",
+  "slug": "geometry-of-persisting-chapter-map",
+  "title": "Geometry of Persisting — Volume III Chapter Map",
+  "subtitle": "Parts I–VIII: The Complete Architecture of the Invariance Problem",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Persisting — Volume III Chapter Map” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-04-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-persisting-chapter-map.png",
+      "alt": "Poster: Geometry of Persisting — Volume III Chapter Map — Parts I–VIII: The Complete Architecture of the Invariance Problem",
+      "caption": "Figure 4.1 — Geometry of Persisting — Volume III Chapter Map: Parts I–VIII: The Complete Architecture of the Invariance Problem.",
+      "explanation": "The full chapter architecture of Volume III, all twenty-six chapters plus appendices laid out as one map. Part I founds persistence and distinguishes becoming from living from persisting. Part II develops intent dynamics — stationary intent, the intent Lagrangian, the Hamiltonian and its co-state reading. Part III is realization theory: realization operators and their properties, multi-substrate realization across biological, digital, quantum, ecological and hybrid media, the proof of substrate independence, and TransEg, the transferred alter ego. Part IV is persistence theory proper — absolute loss of context, the invariance theorem with its uniqueness and equivalence corollaries, the persistence functional and its decay and recovery behaviour, and semantic conservation laws. Parts V to VII carry the argument out to civilization (persistent knowledge, institutions, habitats), to deep time (stellar timescales, alien semantics, cosmic persistence), and to the non-dual limit. Part VIII holds notation, proofs, connections to existing mathematics, and open problems. The closing panels give the canonical dependency graph and the axiomatic triad in which matter provides substrate, energy provides dynamics, and intent provides semantic organization.",
+      "tts": "The chapter map of Volume Three. Twenty-six chapters across eight parts, from the persistence problem and intent dynamics through realization theory and the invariance theorem, out to civilization, deep time, and the non-dual limit.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Persisting — Volume III Chapter Map — Parts I–VIII: The Complete Architecture of the Invariance Problem” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: persistence problem, mathematical preliminaries, semantic manifold, intent as primitive, stationary intent, intent Lagrangian and Hamiltonian, realization operators, multi-substrate realization, substrate independence, TransEg, absolute loss of context, invariance theorem, persistence functional, semantic conservation laws, persistent knowledge and institutions, habitat persistence, deep-time thermodynamics, alien semantics, cosmic persistence, voluntary context dissolution, the Nasadiya boundary, intent beyond matter. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

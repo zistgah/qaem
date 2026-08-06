@@ -1,0 +1,31 @@
+{
+  "id": "ch-09",
+  "slug": "gramsheel-ecosystem",
+  "title": "GramSheel Ecosystem",
+  "subtitle": "A Layered Civilizational Architecture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “GramSheel Ecosystem” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-09-01",
+      "dimension": "2d",
+      "src": "assets/figures/gramsheel-ecosystem.png",
+      "alt": "Poster: GramSheel Ecosystem — A Layered Civilizational Architecture",
+      "caption": "Figure 9.1 — GramSheel Ecosystem: A Layered Civilizational Architecture.",
+      "explanation": "The organizational architecture in eight blocks, read as a layered stack rather than an org chart. Human values (HEJLP — health, education, justice, livelihood, peace) are the normative foundation answering what constitutes human flourishing. Each value is realized through a flagship programme: Marham for health, ILM for education, Fakir for livelihood, AAB for justice, and Zistgah for peace, habitat, environment, food and agriculture. Four of those concern human systems; Zistgah concerns the shared habitat within which those systems exist, which is what makes it different in kind. Project Vikram is the technology arm of every programme, running research, engineering, platforms, deployment and impact. AAB supplies the methodology layer — verification, equity, interoperability, assumption-free design — and ILM the knowledge layer of knowledge, language, semantics, learning and understanding. Habitat runs Earth to Moon to Mars to future worlds as successive embodiments of one invariant ontology, and the whole closes as a continuously learning feedback loop from reality through agency and back to reality.",
+      "tts": "The GramSheel ecosystem. Values define direction, programmes create impact, methodology ensures justice, technology enables scale, and habitat sustains civilization.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “GramSheel Ecosystem — A Layered Civilizational Architecture” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: HEJLP human values, Marham, ILM, Fakir, AAB, Zistgah, Project Vikram, methodology and verification, habitat expansion, agency and feedback loop, emerging ontology. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

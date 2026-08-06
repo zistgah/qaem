@@ -1,0 +1,31 @@
+{
+  "id": "ch-01",
+  "slug": "axiomatic-foundation-of-intent-dynamics",
+  "title": "Axiomatic Foundation of Intent Dynamics",
+  "subtitle": "A Mathematical Framework for Reality, Life, and Persistence",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Axiomatic Foundation of Intent Dynamics” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-01-01",
+      "dimension": "2d",
+      "src": "assets/figures/axiomatic-foundation-of-intent-dynamics.png",
+      "alt": "Poster: Axiomatic Foundation of Intent Dynamics — A Mathematical Framework for Reality, Life, and Persistence",
+      "caption": "Figure 1.1 — Axiomatic Foundation of Intent Dynamics: A Mathematical Framework for Reality, Life, and Persistence.",
+      "explanation": "This poster states the three axioms the whole trilogy rests on. Axiom I posits a material manifold M, the substrate of physical realization, with state x in M. Axiom II posits an energy functional on the tangent bundle giving the law of motion x-dot = f(x,u). Axiom III posits intent as a primitive living on its own Riemannian semantic manifold (Sigma, g_Sigma), joined to matter only through the realization operator R : Sigma x M -> Sigma. From these follows the Principle of Stationary Intent, delta J = 0, with intent Lagrangian L = q(x) + lambda D(I, I-hat(x)) + half u-transpose R u, and its Legendre transform the intent Hamiltonian. The lower half recasts the trilogy as three boundary-value problems — existence D(I0, empty) > 0, stability D(I, I-hat(t)) <= epsilon, and invariance D_Sigma(I, I) = 0 — and derives three results: the semantic persistence functional P(t) = exp(-D(I, I-hat)), the full decoupling of physical distance from semantic distance, and the no-compiler principle, that optimal realization is a dynamical trajectory rather than an imposed software layer.",
+      "tts": "The axiomatic foundation of intent dynamics. Three axioms — a material manifold, an energy functional, and intent as a primitive on its own semantic manifold — yield the Principle of Stationary Intent and recast the trilogy as three boundary-value problems: existence, stability, and invariance.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Axiomatic Foundation of Intent Dynamics — A Mathematical Framework for Reality, Life, and Persistence” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: material manifold, energy functional, semantic manifold, realization operator, Principle of Stationary Intent, intent Lagrangian and Hamiltonian, persistence functional, substrate separation, no-compiler principle. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

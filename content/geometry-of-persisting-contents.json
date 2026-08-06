@@ -1,0 +1,31 @@
+{
+  "id": "ch-05",
+  "slug": "geometry-of-persisting-contents",
+  "title": "Geometry of Persisting — Beyond Life (Jacket & Contents)",
+  "subtitle": "Table of Contents, Core Equations, and the Canonical Dependency Graph",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Persisting — Beyond Life (Jacket & Contents)” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-05-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-persisting-contents.png",
+      "alt": "Poster: Geometry of Persisting — Beyond Life (Jacket & Contents) — Table of Contents, Core Equations, and the Canonical Dependency Graph",
+      "caption": "Figure 5.1 — Geometry of Persisting — Beyond Life (Jacket & Contents): Table of Contents, Core Equations, and the Canonical Dependency Graph.",
+      "explanation": "The book jacket in its portrait form: the front panel carries the invariant intent motif, I in Sigma, with the realization operator and the persistence functional set on either side of it, and beneath, the chain of persistence media — neuron, brain, tablet, book, archive, network. The reverse panel carries the full table of contents across eight parts, the five core equations of the volume (the invariance condition, the persistence functional, the stationary intent principle, the intent Lagrangian, and the informal statement of the invariance theorem), and the canonical dependency graph running from foundations through the semantic manifold, intent, intent dynamics, realization theory, persistence theory, civilizational persistence, deep-time persistence and cosmic persistence to the non-dual limit. The four-glyph progression at the foot — existence, stability, invariance, transcendence — is the trilogy's arc compressed to a single line.",
+      "tts": "The jacket and contents of Volume Three: eight parts, the five core equations, and the canonical dependency graph running from foundations to the non-dual limit.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Persisting — Beyond Life (Jacket & Contents) — Table of Contents, Core Equations, and the Canonical Dependency Graph” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: table of contents, invariance condition, persistence functional, stationary intent principle, intent Lagrangian, invariance theorem, canonical dependency graph, existence stability invariance transcendence. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

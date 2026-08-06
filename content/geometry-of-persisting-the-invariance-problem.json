@@ -1,0 +1,31 @@
+{
+  "id": "ch-03",
+  "slug": "geometry-of-persisting-the-invariance-problem",
+  "title": "Volume III — Geometry of Persisting (Beyond Life)",
+  "subtitle": "The Invariance Problem",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Volume III — Geometry of Persisting (Beyond Life)” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-03-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-persisting-the-invariance-problem.png",
+      "alt": "Poster: Volume III — Geometry of Persisting (Beyond Life) — The Invariance Problem",
+      "caption": "Figure 3.1 — Volume III — Geometry of Persisting (Beyond Life): The Invariance Problem.",
+      "explanation": "The volume's argument in one sheet: that intent is invariant, substrate-independent, and capable of persisting across absolute loss of context, deep time, and duality itself. The Invariance Theorem asks, given disjoint realization manifolds and their realization operators, whether an equivalence class of realizations exists for which the semantic deviation vanishes — meaning semantic identity is fully decoupled from material location or composition. The central phenomenon is context collapse: observations vanish, environmental constraints collapse, the physical substrate decays and kinetic energy goes to zero, yet because intent is an independent primitive on the semantic manifold, the collapse of local physical Lagrangians does not erase it — the system transitions from active living to pure persisting. Three parts follow: mathematics (decoupling distance metrics, substrate migration via TransEg, topological invariants of memory), thermodynamics (zero-point thermodynamics, alien semantics with zero shared context, deep-time entropy pumping), and transcendence (voluntary context loss as samadhi or fana, and the Nasadiya threshold). The trilogy summary table sets the existence, stability and invariance problems side by side.",
+      "tts": "Volume Three, the invariance problem. When observation, environment, substrate and energy all go to zero, the semantic object survives the collapse. Persistence is not the survival of matter — it is the invariance of meaning.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Volume III — Geometry of Persisting (Beyond Life) — The Invariance Problem” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: invariance theorem, realization operators, absolute loss of context, deep-time entropy, alien semantics, substrate migration, TransEg, voluntary context loss, Nasadiya Suktam threshold, persistence measure, non-dual limit. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

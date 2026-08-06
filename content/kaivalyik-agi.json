@@ -1,0 +1,31 @@
+{
+  "id": "ch-08",
+  "slug": "kaivalyik-agi",
+  "title": "Kaivalyik AGI",
+  "subtitle": "A Unified Thermodynamic, Geometric & PoLPEST Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Kaivalyik AGI” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-08-01",
+      "dimension": "2d",
+      "src": "assets/figures/kaivalyik-agi.png",
+      "alt": "Poster: Kaivalyik AGI — A Unified Thermodynamic, Geometric & PoLPEST Framework",
+      "caption": "Figure 8.1 — Kaivalyik AGI: A Unified Thermodynamic, Geometric & PoLPEST Framework.",
+      "explanation": "An architecture for intelligence in which intent is the invariant and realization is merely the chosen medium. Programs, models and hardware are treated as temporary artifacts; the programmatic directive is what persists, driving the system to minimize variational free energy. Realization runs across three substrate-independent layers — computational, biological and ecological — bridged by KELP, a semantic coordination protocol providing verified translation between domains without thermal or systemic friction. The continuous compilation loop is the poster's central mechanism: intent, refinement, realization, learning, adaptation, repair, evolution, running as a recursive parameter update that never terminates, so ageing, wear and environmental shift are handled as prediction errors that update the metric tensor rather than as end-of-life. The lower half gives a seven-level scale from molecular and cellular systems up through cognitive, community, civilizational and planetary systems, each with its realization modalities and laboratory infrastructure, and closes by mapping the whole onto the PoLPEST dimensions with the Perpetuation of Life as the objective.",
+      "tts": "Kaivalyik AGI. Intent is invariant, realization is fluid, intelligence is universal, and compilation never terminates — continuous realization as continuous minimization of free energy.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Kaivalyik AGI — A Unified Thermodynamic, Geometric & PoLPEST Framework” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: computational intent, realization layers, CEM, biological realization, ecological realization, KELP, continuous compilation loop, free energy minimization, multi-scale intelligence, laboratory foundry, PoLPEST alignment. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

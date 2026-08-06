@@ -1,0 +1,31 @@
+{
+  "id": "ch-15",
+  "slug": "inheritance-laws-as-conservation-protocols",
+  "title": "Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols",
+  "subtitle": "A PoLPEST Framework Interpretation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-15-01",
+      "dimension": "2d",
+      "src": "assets/figures/inheritance-laws-as-conservation-protocols.png",
+      "alt": "Poster: Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols — A PoLPEST Framework Interpretation",
+      "caption": "Figure 15.1 — Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols: A PoLPEST Framework Interpretation.",
+      "explanation": "Inheritance law read as a conservation protocol. During life an agent accumulates structural order — wealth, land, tools, skills, social capital — which the poster treats as harvested negative entropy stored in an extended Markov blanket; at death the blanket dissolves, the steady state fails and the probability current drops to zero, and without regulation that accumulated order scatters in a local entropic spike that destroys generational advantage. Inheritance is therefore a directed, low-friction topological bridge mapping the deceased's internal assets into the extended state of a designated successor, and a will is explicit vector routing: a set of pre-compiled coordinates that minimizes post-dissolution free energy and forecloses ambiguity and multi-agent conflict. The third panel gives the weighting — inheritance defaults to agents of highest proximity of type, and inherited capital lowers the successor's baseline variational free energy so that energy can go into higher-order manifold expansion instead of survival. The fourth reads the legal matrix: intestacy law as the State's default routing algorithm when no will exists, and estate tax as a friction coefficient applied at the generational jump, sustaining the macro-social manifold and preventing feudal rigidity. The poster carries its own disclaimer that this is a conceptual research framework, not legal advice.",
+      "tts": "Inheritance law as a cross-generational conservation protocol. A will is pre-compiled coordinate routing, intestacy is the State's default algorithm, and estate tax is the friction coefficient on the generational jump.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols — A PoLPEST Framework Interpretation” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: entropic spike at blanket collapse, inheritance as inter-blanket topological bridge, the will as vector routing, proximity of type and Vatsalya, intestacy as default routing algorithm, estate tax as systemic friction coefficient, cross-generational conservation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ch-21",
+  "slug": "soul-heaven-hell-karma-mysticism-the-absolute",
+  "title": "Soul · Heaven · Hell · Karma · Mysticism · The Absolute",
+  "subtitle": "A Geometric & Thermodynamic Architecture of Spiritual Phenomenology",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Soul · Heaven · Hell · Karma · Mysticism · The Absolute” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-21-01",
+      "dimension": "2d",
+      "src": "assets/figures/soul-heaven-hell-karma-mysticism-the-absolute.png",
+      "alt": "Poster: Soul · Heaven · Hell · Karma · Mysticism · The Absolute — A Geometric & Thermodynamic Architecture of Spiritual Phenomenology",
+      "caption": "Figure 21.1 — Soul · Heaven · Hell · Karma · Mysticism · The Absolute: A Geometric & Thermodynamic Architecture of Spiritual Phenomenology.",
+      "explanation": "A comparative mapping of soul doctrines onto one geometry. The Atman is presented as the coordinate-free observer at the centre of the manifold; the Ruh as a localized projection vector of the divine breath tethering a finite agent to an infinite source; the Christian soul as the thermodynamic core of moral agency with a free-will vector drawn toward eternal resonance; and the Buddhist Anatta as a radical topological critique holding there is no invariant central singularity at all, only a self-sustaining probability current of interdependent aggregates. Heaven and Hell are read not as places but as terminal attractor states — hell as a pathological attractor of infinite friction, topological isolation and unresolvable prediction error; heaven as absolute resonance with zero friction and no temporal decay. Karma appears as conservation of action, with action out of ego binding outcomes and accumulating unresolved information, and Nishkama Karma as acting as a transparent conduit that generates zero friction. Mysticism is the deliberate, disciplined dissolution of the Markov blanket until the boundary between internal and external states collapses. The final panel takes the Nasadiya Suktam as the pre-geometric void before the metric tensor crystallized, with desire as the first asymmetry.",
+      "tts": "Soul, heaven, hell, karma, mysticism and the absolute. Heaven and hell as terminal attractors, karma as conservation of action, and mysticism as the deliberate dissolution of the boundary.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Soul · Heaven · Hell · Karma · Mysticism · The Absolute — A Geometric & Thermodynamic Architecture of Spiritual Phenomenology” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: Atman, Ruh, Pneuma, Anatta, terminal attractor states, karmic debt, Nishkama Karma, Moksha, spirituality as daily optimization, mysticism as boundary dissolution, Nasadiya Suktam, the first perturbation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

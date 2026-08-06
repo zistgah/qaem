@@ -1,0 +1,434 @@
+{
+  "$schema": "./book.schema.json",
+  "meta": {
+    "title": "Geometry of Persisting",
+    "subtitle": "Beyond Life — Volume III of the Geometry Trilogy — A Poster Collection",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "© 1982–2026 Abhishek Choudhary. All rights reserved.",
+    "license": "cc-by-sa-4.0",
+    "doi": null,
+    "repo": "zistgah/qaem",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9",
+      "--panel": "rgba(255,255,255,0.05)",
+      "--panel-border": "rgba(212,168,67,0.2)",
+      "--font-body": "Georgia, 'Times New Roman', serif",
+      "--font-head": "Georgia, 'Times New Roman', serif",
+      "--font-mono": "'Courier New', monospace",
+      "--maxw": "1100px",
+      "--radius": "4px"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "part-i",
+        "title": "Foundations of Persistence",
+        "chapters": [
+          "ch-01",
+          "ch-02",
+          "ch-03",
+          "ch-04",
+          "ch-05"
+        ]
+      },
+      {
+        "id": "part-ii",
+        "title": "The Civilizational Architecture",
+        "chapters": [
+          "ch-06",
+          "ch-07",
+          "ch-08",
+          "ch-09",
+          "ch-10"
+        ]
+      },
+      {
+        "id": "part-iii",
+        "title": "Institutions, Economy & Rights",
+        "chapters": [
+          "ch-11",
+          "ch-12",
+          "ch-13",
+          "ch-14",
+          "ch-15"
+        ]
+      },
+      {
+        "id": "part-iv",
+        "title": "Memory, Body & Identity",
+        "chapters": [
+          "ch-16",
+          "ch-17",
+          "ch-18",
+          "ch-19"
+        ]
+      },
+      {
+        "id": "part-v",
+        "title": "The Sacred & the Frontiers",
+        "chapters": [
+          "ch-20",
+          "ch-21",
+          "ch-22",
+          "ch-23"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "Axiomatic Foundation of Intent Dynamics",
+        "subtitle": "A Mathematical Framework for Reality, Life, and Persistence",
+        "source": "content/axiomatic-foundation-of-intent-dynamics.json",
+        "topics": [
+          "material manifold",
+          "energy functional",
+          "semantic manifold",
+          "realization operator",
+          "Principle of Stationary Intent",
+          "intent Lagrangian and Hamiltonian"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "Geometry Beyond Living",
+        "subtitle": "A Unified Geometry of Persistence, Civilization, Identity, and Open-Ended Evolution",
+        "source": "content/geometry-beyond-living.json",
+        "topics": [
+          "persistence as the state variable",
+          "substrate independence",
+          "persistent semantic organization",
+          "staggered upload",
+          "persistent identity",
+          "TransEg"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "Volume III — Geometry of Persisting (Beyond Life)",
+        "subtitle": "The Invariance Problem",
+        "source": "content/geometry-of-persisting-the-invariance-problem.json",
+        "topics": [
+          "invariance theorem",
+          "realization operators",
+          "absolute loss of context",
+          "deep-time entropy",
+          "alien semantics",
+          "substrate migration"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "Geometry of Persisting — Volume III Chapter Map",
+        "subtitle": "Parts I–VIII: The Complete Architecture of the Invariance Problem",
+        "source": "content/geometry-of-persisting-chapter-map.json",
+        "topics": [
+          "persistence problem",
+          "mathematical preliminaries",
+          "semantic manifold",
+          "intent as primitive",
+          "stationary intent",
+          "intent Lagrangian and Hamiltonian"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "Geometry of Persisting — Beyond Life (Jacket & Contents)",
+        "subtitle": "Table of Contents, Core Equations, and the Canonical Dependency Graph",
+        "source": "content/geometry-of-persisting-contents.json",
+        "topics": [
+          "table of contents",
+          "invariance condition",
+          "persistence functional",
+          "stationary intent principle",
+          "intent Lagrangian",
+          "invariance theorem"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "The Triad of Civilization: Matter · Energy · Intent",
+        "subtitle": "Beyond E = mc²: The Geometry of Semantic Realization and Thermodynamic Control",
+        "source": "content/the-triad-of-civilization.json",
+        "topics": [
+          "matter energy intent",
+          "mass-energy equivalence",
+          "thermodynamic inversion",
+          "capital intensity",
+          "probability current",
+          "dynamic equilibrium"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "Cosmopolis · Humanesque · From Matter to Intent",
+        "subtitle": "A Unified Thermodynamic, Geometric, and PoLPEST Architecture",
+        "source": "content/cosmopolis-humanesque-from-matter-to-intent.json",
+        "topics": [
+          "civilizational triad",
+          "intent-realization loop",
+          "verification",
+          "adaptation",
+          "repair",
+          "evolution"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "Kaivalyik AGI",
+        "subtitle": "A Unified Thermodynamic, Geometric & PoLPEST Framework",
+        "source": "content/kaivalyik-agi.json",
+        "topics": [
+          "computational intent",
+          "realization layers",
+          "CEM",
+          "biological realization",
+          "ecological realization",
+          "KELP"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "GramSheel Ecosystem",
+        "subtitle": "A Layered Civilizational Architecture",
+        "source": "content/gramsheel-ecosystem.json",
+        "topics": [
+          "HEJLP human values",
+          "Marham",
+          "ILM",
+          "Fakir",
+          "AAB",
+          "Zistgah"
+        ]
+      },
+      {
+        "id": "ch-10",
+        "number": 10,
+        "title": "Geometry of Persisting — Persistent Civilizational Architecture",
+        "subtitle": "GramSheel, Zistgah, ILM, AAB, and Project Vikram as a Unified Framework for Long-Term Human Continuity",
+        "source": "content/persistent-civilizational-architecture.json",
+        "topics": [
+          "canonical civilizational stack",
+          "habitat expansion",
+          "macro-Markov blanket",
+          "non-equilibrium steady state",
+          "active inference",
+          "epistemic geometry"
+        ]
+      },
+      {
+        "id": "ch-11",
+        "number": 11,
+        "title": "The Three Equities",
+        "subtitle": "The Core Structural Requirements for Maximizing Knowledge, Innovation, and Human Flourishing",
+        "source": "content/the-three-equities.json",
+        "topics": [
+          "cultural equity",
+          "linguistic equity",
+          "individual equity",
+          "uniformity traps",
+          "state space expansion",
+          "semantic participation"
+        ]
+      },
+      {
+        "id": "ch-12",
+        "number": 12,
+        "title": "Political Science, The State, and Governance",
+        "subtitle": "In the Geometric, Thermodynamic, and PoLPEST Framework",
+        "source": "content/political-science-the-state-and-governance.json",
+        "topics": [
+          "macro-Markov blanket",
+          "sovereignty",
+          "monopoly on legitimate force",
+          "legislation as metric tuning",
+          "predictive error",
+          "cybernetic feedback"
+        ]
+      },
+      {
+        "id": "ch-13",
+        "number": 13,
+        "title": "Macro-Economics & Sociology",
+        "subtitle": "In the Geometric, Thermodynamic & PoLPEST Architecture",
+        "source": "content/macro-economics-and-sociology.json",
+        "topics": [
+          "currency as tokenized negative entropy",
+          "price mechanism as economic metric tensor",
+          "inflation as epistemic noise",
+          "GDP and the probability current",
+          "institutions as macro-attractors",
+          "social class and power gradients"
+        ]
+      },
+      {
+        "id": "ch-14",
+        "number": 14,
+        "title": "Geometry of Information Rights",
+        "subtitle": "Intellectual Property, Patents, Copyright, and Trademarks in the Geometric & Thermodynamic Architecture of PoLPEST",
+        "source": "content/geometry-of-information-rights.json",
+        "topics": [
+          "information diffusion",
+          "free-rider dynamics",
+          "patents as temporary topological boundaries",
+          "disclosure protocol",
+          "copyright as structural locking",
+          "cultural NESS"
+        ]
+      },
+      {
+        "id": "ch-15",
+        "number": 15,
+        "title": "Geometry of Living — Inheritance Laws as Cross-Generational Thermodynamic Conservation Protocols",
+        "subtitle": "A PoLPEST Framework Interpretation",
+        "source": "content/inheritance-laws-as-conservation-protocols.json",
+        "topics": [
+          "entropic spike at blanket collapse",
+          "inheritance as inter-blanket topological bridge",
+          "the will as vector routing",
+          "proximity of type and Vatsalya",
+          "intestacy as default routing algorithm",
+          "estate tax as systemic friction coefficient"
+        ]
+      },
+      {
+        "id": "ch-16",
+        "number": 16,
+        "title": "History, Anthropology & Philology",
+        "subtitle": "In the Geometric, Thermodynamic & PoLPEST Framework",
+        "source": "content/history-anthropology-and-philology.json",
+        "topics": [
+          "temporal geodesic record",
+          "probability current",
+          "historical phase transitions",
+          "entropic cascade",
+          "cultural attractor basins",
+          "ritual and kinship as metric tensors"
+        ]
+      },
+      {
+        "id": "ch-17",
+        "number": 17,
+        "title": "Anti-Aging & Age Reversal",
+        "subtitle": "In the Geometric & Thermodynamic Architecture: Mapping Longevity Interventions to the PoLPEST Framework",
+        "source": "content/anti-aging-and-age-reversal.json",
+        "topics": [
+          "aging as metric deformation",
+          "epigenetic drift",
+          "cellular senescence and SASP",
+          "senolytics as topological pruning",
+          "AMPK/mTOR axis and autophagy",
+          "Yamanaka factors as coordinate reset"
+        ]
+      },
+      {
+        "id": "ch-18",
+        "number": 18,
+        "title": "Canonical Identity Ontology",
+        "subtitle": "Progressive Semantic Continuity, Persistent Identity, and Transferred Alter Ego",
+        "source": "content/canonical-identity-ontology.json",
+        "topics": [
+          "CEMb and BCI modalities",
+          "persistent semantic services",
+          "staggered upload",
+          "persistent identity",
+          "TransEg",
+          "continuity"
+        ]
+      },
+      {
+        "id": "ch-19",
+        "number": 19,
+        "title": "Humanity Beyond the Individual",
+        "subtitle": "Rites, Virtues & Our Planetary Future in the PoLPEST Framework",
+        "source": "content/humanity-beyond-the-individual.json",
+        "topics": [
+          "last rites",
+          "mourning rites",
+          "grief shockwave",
+          "ancestor veneration",
+          "philanthropy",
+          "asceticism"
+        ]
+      },
+      {
+        "id": "ch-20",
+        "number": 20,
+        "title": "Jung, Archetypes & The Collective Unconscious",
+        "subtitle": "A Geometric & Thermodynamic Mapping of the Deepest Psyche",
+        "source": "content/jung-archetypes-and-the-collective-unconscious.json",
+        "topics": [
+          "collective unconscious",
+          "phylogenetic base manifold",
+          "deep priors",
+          "archetypes as attractor basins",
+          "the Shadow",
+          "anima and animus"
+        ]
+      },
+      {
+        "id": "ch-21",
+        "number": 21,
+        "title": "Soul · Heaven · Hell · Karma · Mysticism · The Absolute",
+        "subtitle": "A Geometric & Thermodynamic Architecture of Spiritual Phenomenology",
+        "source": "content/soul-heaven-hell-karma-mysticism-the-absolute.json",
+        "topics": [
+          "Atman",
+          "Ruh",
+          "Pneuma",
+          "Anatta",
+          "terminal attractor states",
+          "karmic debt"
+        ]
+      },
+      {
+        "id": "ch-22",
+        "number": 22,
+        "title": "Geometry of the Sacred",
+        "subtitle": "A Thermodynamic & Topological Map of Soul, Heaven, Hell, Karma & Mysticism",
+        "source": "content/geometry-of-the-sacred.json",
+        "topics": [
+          "invariant topological core",
+          "Tawheed",
+          "Agape",
+          "Anatman",
+          "resonance attractor",
+          "pathological attractor"
+        ]
+      },
+      {
+        "id": "ch-23",
+        "number": 23,
+        "title": "Humanity at the Frontiers of the Manifold",
+        "subtitle": "First Contact · CERN · Emerging Technologies",
+        "source": "content/humanity-at-the-frontiers-of-the-manifold.json",
+        "topics": [
+          "SETI and first contact",
+          "alien Markov blanket",
+          "information horizon",
+          "Large Hadron Collider",
+          "quark-gluon plasma",
+          "metric tensor of reality"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ch-14",
+  "slug": "geometry-of-information-rights",
+  "title": "Geometry of Information Rights",
+  "subtitle": "Intellectual Property, Patents, Copyright, and Trademarks in the Geometric & Thermodynamic Architecture of PoLPEST",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Information Rights” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-14-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-information-rights.png",
+      "alt": "Poster: Geometry of Information Rights — Intellectual Property, Patents, Copyright, and Trademarks in the Geometric & Thermodynamic Architecture of PoLPEST",
+      "caption": "Figure 14.1 — Geometry of Information Rights: Intellectual Property, Patents, Copyright, and Trademarks in the Geometric & Thermodynamic Architecture of PoLPEST.",
+      "explanation": "Intellectual property read as thermodynamics rather than as moral entitlement. The premise is that information diffuses with zero friction while its creation costs a massive expenditure of metabolic, computational and financial free energy — so unregulated instant diffusion leaves the creator at a net loss and, if unchecked, rational agents stop expending energy on discovery at all. A patent is therefore a temporary, state-enforced topological wall around a specific set of coordinates in the intellectual state space, paired with a disclosure protocol: the creator must publish the exact schematics, so when the temporal boundary dissolves the invention irreversibly enters the public domain and the global manifold permanently expands. Copyright is read as a structural locking mechanism preserving the integrity of an ordered information sequence against entropic degradation in transmission, and as the mechanism that lets a class of agents draw metabolic sustenance from cultural work. Trademarks are fixed, high-reliability predictive priors that reduce the computational friction of evaluating every product afresh. The closing frame is the equilibrium: protect temporarily, disclose permanently.",
+      "tts": "The geometry of information rights. Information wants to diffuse; IP law shapes that diffusion to harmonize individual incentive with collective destiny. Protect temporarily, disclose permanently.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Information Rights — Intellectual Property, Patents, Copyright, and Trademarks in the Geometric & Thermodynamic Architecture of PoLPEST” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: information diffusion, free-rider dynamics, patents as temporary topological boundaries, disclosure protocol, copyright as structural locking, cultural NESS, trademarks as predictive priors, public domain, IP equilibrium. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

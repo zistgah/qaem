@@ -1,0 +1,31 @@
+{
+  "id": "ch-18",
+  "slug": "canonical-identity-ontology",
+  "title": "Canonical Identity Ontology",
+  "subtitle": "Progressive Semantic Continuity, Persistent Identity, and Transferred Alter Ego",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Canonical Identity Ontology” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-18-01",
+      "dimension": "2d",
+      "src": "assets/figures/canonical-identity-ontology.png",
+      "alt": "Poster: Canonical Identity Ontology — Progressive Semantic Continuity, Persistent Identity, and Transferred Alter Ego",
+      "caption": "Figure 18.1 — Canonical Identity Ontology: Progressive Semantic Continuity, Persistent Identity, and Transferred Alter Ego.",
+      "explanation": "The identity ontology as a strict dependency chain: CEMb, the brain-computer interaction modalities, provides persistent semantic services; those services enable staggered upload; staggered upload produces persistent identity; persistent identity is the prerequisite for TransEg, the transferred alter ego; and TransEg yields continuity. Staggered upload is the poster's central move — identity is built incrementally through semantic services, incremental integration and memory consolidation rather than transferred atomically in one instantaneous copy, which is what preserves semantic continuity across repeated interactions and supports long-term learning. Persistent identity is defined as a stabilized, continuously maintained cognitive representation that survives beyond isolated sessions; TransEg is that representation operating across different computational embodiments — humanoid, robotic, digital, cloud — while preserving accumulated identity; and continuity is the maintained preservation of that identity across time, contexts and embodiments. The stated key principles are progressive accumulation, semantic continuity, long-term persistence, embodiment agnosticism and continuity as the goal. The poster ends with an explicit instruction: the dependency order is canonical and intentional, and is not to be reordered, flattened or reconstructed.",
+      "tts": "The canonical identity ontology. From BCI modalities through persistent semantic services and staggered upload to persistent identity, TransEg and continuity — an ordering that is canonical and must not be reordered.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Canonical Identity Ontology — Progressive Semantic Continuity, Persistent Identity, and Transferred Alter Ego” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: CEMb and BCI modalities, persistent semantic services, staggered upload, persistent identity, TransEg, continuity, embodiment agnosticism, canonical dependency order. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

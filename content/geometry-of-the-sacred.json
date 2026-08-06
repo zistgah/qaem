@@ -1,0 +1,31 @@
+{
+  "id": "ch-22",
+  "slug": "geometry-of-the-sacred",
+  "title": "Geometry of the Sacred",
+  "subtitle": "A Thermodynamic & Topological Map of Soul, Heaven, Hell, Karma & Mysticism",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of the Sacred” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-22-01",
+      "dimension": "2d",
+      "src": "assets/figures/geometry-of-the-sacred.png",
+      "alt": "Poster: Geometry of the Sacred — A Thermodynamic & Topological Map of Soul, Heaven, Hell, Karma & Mysticism",
+      "caption": "Figure 22.1 — Geometry of the Sacred: A Thermodynamic & Topological Map of Soul, Heaven, Hell, Karma & Mysticism.",
+      "explanation": "The companion sheet to the spiritual phenomenology poster, organized as five parts with a comparative panel across four traditions. Part 1 treats the soul as the irreducible, non-computable centre of the Markov blanket — the singularity of awareness that observes the generative model — and sets Sanatan Dharma's Atman, Islam's Tawheed and Ruh, Christianity's Pneuma with Agape as the trajectory-defining force, and Buddhism's Anatta side by side as four readings of that same position, the last denying the singularity outright. Part 2 gives heaven and hell as terminal attractor states of the cognitive and spiritual manifold. Part 3 reads karma through the Gita as topological and informational conservation, with karmic debt as structural friction forcing re-instantiation until equilibrium is reached, and Nishkama Karma as the zero-friction geodesic to liberation. Part 4 separates religion as the laws of the manifold from mysticism as the laboratory for altering its topology, with prayer, meditation, ethics and devotion as daily metric-smoothing operations. Part 5 places the Nasadiya Suktam at zero-point: no space, no time, no observer, pure symmetry and zero entropy, broken by the first perturbation.",
+      "tts": "The geometry of the sacred. Topology is theology, thermodynamics is dharma — different languages, one manifold, one truth.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of the Sacred — A Thermodynamic & Topological Map of Soul, Heaven, Hell, Karma & Mysticism” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: invariant topological core, Tawheed, Agape, Anatman, resonance attractor, pathological attractor, Bhagavad Gita, karmic friction, Samadhi, Fana, Unio Mystica, pre-geometric void, Kama as first perturbation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

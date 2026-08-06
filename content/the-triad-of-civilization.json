@@ -1,0 +1,31 @@
+{
+  "id": "ch-06",
+  "slug": "the-triad-of-civilization",
+  "title": "The Triad of Civilization: Matter · Energy · Intent",
+  "subtitle": "Beyond E = mc²: The Geometry of Semantic Realization and Thermodynamic Control",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “The Triad of Civilization: Matter · Energy · Intent” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-06-01",
+      "dimension": "2d",
+      "src": "assets/figures/the-triad-of-civilization.png",
+      "alt": "Poster: The Triad of Civilization: Matter · Energy · Intent — Beyond E = mc²: The Geometry of Semantic Realization and Thermodynamic Control",
+      "caption": "Figure 6.1 — The Triad of Civilization: Matter · Energy · Intent: Beyond E = mc²: The Geometry of Semantic Realization and Thermodynamic Control.",
+      "explanation": "The framework's foundational physics of civilization. Matter is what can exist physically and sets the structural boundary conditions; energy is what enables change and sets the rate and scale of realization; intent is what determines purpose and sets the directional vector. The poster's central claim about E = mc² is that mass-energy equivalence tells you how much energy can be liberated from matter but carries no information about why or where that energy should be directed — intent supplies the missing top-down geometric constraint. The thermodynamic inversion panel is the argument's sharpest edge: matter and energy operate at collective scale and enormous capital intensity, while intent operates at individual scale and minimal capital intensity, so a single verified ontology, formal proof or intent specification authored by one mind can reorganize vast quantities of matter and energy. The remaining panels give civilizational homeostasis as a dynamic equilibrium of the three, the failure modes when any one is absent, and the Zistgah habitat continuum from Earth through Mars and the Moon to future worlds, each a nested Markov blanket.",
+      "tts": "The triad of civilization: matter, energy and intent. Matter builds, energy moves, intent means. As civilization evolves, the capital intensity of power inverts — and purpose precedes execution.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “The Triad of Civilization: Matter · Energy · Intent — Beyond E = mc²: The Geometry of Semantic Realization and Thermodynamic Control” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: matter energy intent, mass-energy equivalence, thermodynamic inversion, capital intensity, probability current, dynamic equilibrium, civilizational homeostasis, Zistgah habitat continuum. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

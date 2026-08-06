@@ -1,0 +1,31 @@
+{
+  "id": "ch-17",
+  "slug": "anti-aging-and-age-reversal",
+  "title": "Anti-Aging & Age Reversal",
+  "subtitle": "In the Geometric & Thermodynamic Architecture: Mapping Longevity Interventions to the PoLPEST Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Anti-Aging & Age Reversal” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-17-01",
+      "dimension": "2d",
+      "src": "assets/figures/anti-aging-and-age-reversal.png",
+      "alt": "Poster: Anti-Aging & Age Reversal — In the Geometric & Thermodynamic Architecture: Mapping Longevity Interventions to the PoLPEST Framework",
+      "caption": "Figure 17.1 — Anti-Aging & Age Reversal: In the Geometric & Thermodynamic Architecture: Mapping Longevity Interventions to the PoLPEST Framework.",
+      "explanation": "Longevity science mapped onto the framework. Aging is defined not as the passage of chronological time but as the gradual topological deformation and entropic decay of the biological Markov blanket: since the Perpetuation of Life requires holding a non-equilibrium steady state, aging is the accumulation of systemic friction that eventually forces the probability current to zero. Part 1 gives the geometry of aging — epigenetic drift as metric corruption, where a youthful high-fidelity metric tensor with a deep potential well degrades into a distorted, shallower, higher-entropy one; and cellular senescence as thermodynamic dissipation, where cells that neither divide nor cleanly delete themselves persist as local heat-sinks radiating inflammatory friction. Part 2 reads anti-aging interventions as damping operators that minimize the rate of entropy production: senolytics as active topological pruning of corrupted coordinate space, and metabolic optimization along the AMPK/mTOR axis as autophagic removal of structural noise. Part 3 separates age reversal as something stronger — reprogramming with Yamanaka factors read as a forced non-linear phase transition dragging the cell state back toward the embryonic coordinate origin — and states its cost honestly through Maxwell's demon: local negative entropy is bought with massive exogenous information and energy pumped in from outside.",
+      "tts": "Anti-aging and age reversal. Aging as the entropic deformation of the biological Markov blanket, anti-aging as thermodynamic damping, and age reversal as a forced return to the original coordinates — paid for with exogenous information and energy.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Anti-Aging & Age Reversal — In the Geometric & Thermodynamic Architecture: Mapping Longevity Interventions to the PoLPEST Framework” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: aging as metric deformation, epigenetic drift, cellular senescence and SASP, senolytics as topological pruning, AMPK/mTOR axis and autophagy, Yamanaka factors as coordinate reset, Maxwell's demon and the information-thermodynamic cost of rejuvenation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

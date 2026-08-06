@@ -1,0 +1,26 @@
+{
+  "title": "Geometry of Persisting (Beyond Life) — A Poster Collection",
+  "version": "1.0.0",
+  "doi": null,
+  "license": "cc-by-sa-4.0",
+  "artifacts": [
+    {
+      "name": "qaem_1785996586.tar",
+      "size": 230717440,
+      "sha256": "d6916104a9564b90eba35e1c2d2db2557c34cab67ea7cfc1a98f4fa5629aa48c"
+    }
+  ],
+  "metadata_files": [
+    "metadata.json",
+    "zenodo.json",
+    "datacite.json",
+    "codemeta.json",
+    "CITATION.cff"
+  ],
+  "reproducibility": {
+    "checksums": {
+      "qaem_1785996586.tar": "d6916104a9564b90eba35e1c2d2db2557c34cab67ea7cfc1a98f4fa5629aa48c"
+    },
+    "tool": "misty-doi"
+  }
+}

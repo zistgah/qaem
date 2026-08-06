@@ -1,0 +1,31 @@
+{
+  "id": "ch-13",
+  "slug": "macro-economics-and-sociology",
+  "title": "Macro-Economics & Sociology",
+  "subtitle": "In the Geometric, Thermodynamic & PoLPEST Architecture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Macro-Economics & Sociology” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-13-01",
+      "dimension": "2d",
+      "src": "assets/figures/macro-economics-and-sociology.png",
+      "alt": "Poster: Macro-Economics & Sociology — In the Geometric, Thermodynamic & PoLPEST Architecture",
+      "caption": "Figure 13.1 — Macro-Economics & Sociology: In the Geometric, Thermodynamic & PoLPEST Architecture.",
+      "explanation": "Economics and sociology treated as the real-time operational sciences of the planetary manifold, against history and anthropology as the retroactive ones. Macro-economics is the study of aggregate thermodynamic throughput: currency is a compressed information vector representing stored thermodynamic work, letting agents exchange metabolic energy asynchronously across space and time; prices form a dynamic metric tensor telling the system where capital is scarce and where abundant; inflation is the injection of epistemic noise into that tensor, warping the coordinates until agents can no longer predict the thermodynamic cost of survival; and GDP measures the sheer volume of probability current flowing through the manifold, with recession a metabolic slowdown that threatens the steady state. Sociology maps the structural scaffolding instead: institutions are engineered macro-attractors that pull individual vectors into aligned trajectories, social stratification is topological distance from the metabolic core, and the two named pathologies are anomie, where the agent's internal model no longer maps to the collective structure, and polarization, where the state-space fractures into mutually exclusive attractor basins.",
+      "tts": "Macro-economics and sociology as real-time sciences. Economics pumps the blood, sociology holds the body together, and a civilization is a Markov blanket that remembers, adapts and metabolizes.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Macro-Economics & Sociology — In the Geometric, Thermodynamic & PoLPEST Architecture” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: currency as tokenized negative entropy, price mechanism as economic metric tensor, inflation as epistemic noise, GDP and the probability current, institutions as macro-attractors, social class and power gradients, anomie, polarization. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ch-19",
+  "slug": "humanity-beyond-the-individual",
+  "title": "Humanity Beyond the Individual",
+  "subtitle": "Rites, Virtues & Our Planetary Future in the PoLPEST Framework",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Humanity Beyond the Individual” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-19-01",
+      "dimension": "2d",
+      "src": "assets/figures/humanity-beyond-the-individual.png",
+      "alt": "Poster: Humanity Beyond the Individual — Rites, Virtues & Our Planetary Future in the PoLPEST Framework",
+      "caption": "Figure 19.1 — Humanity Beyond the Individual: Rites, Virtues & Our Planetary Future in the PoLPEST Framework.",
+      "explanation": "Rites and virtues treated as thermodynamic operations that sustain the Perpetuation of Life across generations. When a biological Markov blanket collapses, the vacuum sends an informational shockwave through the surviving social network; last rites are read as clean decommissioning protocols that safely dismantle the physical container and sever operational links, while mourning rites damp the grief shockwave — grief being an acute spike in variational free energy because the survivor's generative model still expects the deceased to occupy their usual coordinates. Ancestor veneration is the inter-generational information loop that anchors present decisions to deep historical attractors. Philanthropy is redistribution of accumulated negative entropy from the centre of the economic manifold to its periphery, smoothing gradients before inequality triggers an entropic cascade. Asceticism is the deliberate minimization of Markov-blanket surface area, freeing cognitive throughput. Self-sacrifice is the calculus in which the collective manifold's survival outweighs the isolated one, and global peace is high-order homeostasis where disputes resolve through high-bandwidth informational exchange rather than kinetic annihilation.",
+      "tts": "Humanity beyond the individual. Rites heal, virtues stabilize, sacrifice protects, unity sustains — the extended human operations layer of the Perpetuation of Life.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Humanity Beyond the Individual — Rites, Virtues & Our Planetary Future in the PoLPEST Framework” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: last rites, mourning rites, grief shockwave, ancestor veneration, philanthropy, asceticism, self-sacrifice, armed forces, global peace, global north-south transition, Earth as a single civilization. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ch-10",
+  "slug": "persistent-civilizational-architecture",
+  "title": "Geometry of Persisting — Persistent Civilizational Architecture",
+  "subtitle": "GramSheel, Zistgah, ILM, AAB, and Project Vikram as a Unified Framework for Long-Term Human Continuity",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This chapter presents the poster “Geometry of Persisting — Persistent Civilizational Architecture” in full. It is a single dense diagram; open it, then use the explanation, read-aloud, and Ask-AI tools beneath it to work through the ideas at your own pace."
+    },
+    {
+      "type": "figure",
+      "id": "fig-10-01",
+      "dimension": "2d",
+      "src": "assets/figures/persistent-civilizational-architecture.png",
+      "alt": "Poster: Geometry of Persisting — Persistent Civilizational Architecture — GramSheel, Zistgah, ILM, AAB, and Project Vikram as a Unified Framework for Long-Term Human Continuity",
+      "caption": "Figure 10.1 — Geometry of Persisting — Persistent Civilizational Architecture: GramSheel, Zistgah, ILM, AAB, and Project Vikram as a Unified Framework for Long-Term Human Continuity.",
+      "explanation": "The same institutional architecture read through the persistence lens: individual organisms are transient realizations of a larger persistent informational architecture, and civilizations persist by preserving values, transmitting knowledge, coordinating institutions, adapting technology and expanding habitats. The canonical stack rises from human values through knowledge and methodology, domain programmes, technology and implementation, habitat expansion, to the perpetuation of civilization, and each layer is given a thermodynamic reading — values define the boundary constraints that minimize variational free energy, Zistgah maintains the macro-environmental steady state, Project Vikram executes the state-space transformations, AAB defines the metric tensor of the civilizational manifold, and ILM minimizes prediction error through recursive learning. The closing interpretation is the poster's point: the primary object of persistence is not the individual but the persistence of organized human capability — values, knowledge, institutions, technology, habitats — in which individuals participate while the structures extend beyond any single lifetime.",
+      "tts": "Persistent civilizational architecture. Individuals are transient realizations of a larger persistent informational architecture — values persist, knowledge persists, institutions persist, habitats persist.",
+      "seed": {
+        "enabled": true,
+        "prompt": "I'm studying a poster titled “Geometry of Persisting — Persistent Civilizational Architecture — GramSheel, Zistgah, ILM, AAB, and Project Vikram as a Unified Framework for Long-Term Human Continuity” from the “Geometry of Persisting” collection by Abhishek Choudhary (AyeAI) — a geometric, thermodynamic and PoLPEST framework treating intent as an irreducible primitive alongside matter and energy. Key topics on this poster: canonical civilizational stack, habitat expansion, macro-Markov blanket, non-equilibrium steady state, active inference, epistemic geometry, generative model architecture, agency and feedback, persistence interpretation. Explain it as a serious research proposal: be precise about where claims are literal versus analogical, and offer opposing perspectives where the framework is contested."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "The Geometry of Persisting is presented as an integrative research proposal — a synthesis across mathematics, physics, information theory and the humanities, not established consensus. Treat the framing as a thinking aid and check it against primary sources."
+    }
+  ]
+}
